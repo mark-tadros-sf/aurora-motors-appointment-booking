@@ -73,6 +73,18 @@ A booking app for agent appointments.
 ![Apex classes](09-apex-classes.png)
 ![Apex triggers](10-apex-triggers.png)
 
+### Dashboard and reports
+![Aurora Motors Sales & Inventory Dashboard](11-dashboard.png)
+![Appointments Per Agent report](12-report-appointments-per-agent.png)
+
+### Flow Builder
+![Schedule Test Drive Flow in Flow Builder](13-flow-builder-schedule-test-drive.png)
+![Manager Approval Flow in Flow Builder](14-flow-builder-manager-approval.png)
+
+## Demo video
+
+[Watch the demo video](demo.mp4): a walkthrough of the running org - dashboard and reports with live data, creating a vehicle, booking an appointment, scheduling a test drive, a high-discount deal routed to Pending Manager Approval, both screen flows in Flow Builder, plus the companion sylndr-order-discount-api org.
+
 ## Built with
 
 Apex (triggers, controllers, batch + schedulable), Salesforce Flow, custom objects with master-detail and lookup relationships, roll-up summary fields, validation rules, reports and dashboards.
